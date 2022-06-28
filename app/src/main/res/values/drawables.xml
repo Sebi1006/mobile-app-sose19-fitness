@@ -1,0 +1,7 @@
+<resources>
+    <item name="baseline_event_24" type="drawable">@drawable/baseline_event_24</item>
+    <item name="baseline_fitness_center_24" type="drawable">@drawable/baseline_fitness_center_24</item>
+    <item name="baseline_home_24" type="drawable">@drawable/baseline_home_24</item>
+    <item name="baseline_settings_applications_24" type="drawable">@drawable/baseline_settings_applications_24</item>
+    <item name="baseline_show_chart_24" type="drawable">@drawable/baseline_show_chart_24</item>
+</resources>

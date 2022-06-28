@@ -1,0 +1,1808 @@
+{
+  "workout_plans": [
+    {
+      "title": "Weight Loss Without Training Tools",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Through Strength Training",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Cable Pulldown"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Through Walking",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Without Training Tools",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Through Strength Training",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Cable Pulldown"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Glute Bridge"
+            },
+            {
+              "name": "Back Extension"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Through Walking",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Without Training Tools",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Through Strength Training",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Cable Pulldown"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Back Extension"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Glute Bridge"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Back Extension"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Through Walking",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Full Body Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hardgainer Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Triceps Extensions"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Leg Press"
+            },
+            {
+              "name": "Incline Bench Press"
+            },
+            {
+              "name": "Barbell Curls"
+            },
+            {
+              "name": "French Press"
+            },
+            {
+              "name": "Side Lateral Raise"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Muscle Building Without Gym",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Full Body Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Leg Press"
+            },
+            {
+              "name": "Incline Bench Press"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Side Lateral Raise"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "French Press"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Triceps Extensions"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hardgainer Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Triceps Extensions"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Leg Press"
+            },
+            {
+              "name": "Incline Bench Press"
+            },
+            {
+              "name": "Barbell Curls"
+            },
+            {
+              "name": "French Press"
+            },
+            {
+              "name": "Side Lateral Raise"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Triceps Extensions"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Muscle Building Without Gym",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mass Building Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Incline Bench Press"
+            },
+            {
+              "name": "Butterfly"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Barbell Curls"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Back Extension"
+            },
+            {
+              "name": "Side Lateral Raise"
+            },
+            {
+              "name": "French Press"
+            },
+            {
+              "name": "Triceps Extensions"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Leg Press"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Side Lateral Raise"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definition Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bench Press"
+            },
+            {
+              "name": "Incline Bench Press"
+            },
+            {
+              "name": "Butterfly"
+            },
+            {
+              "name": "Hammer Curls"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Barbell Row"
+            },
+            {
+              "name": "Back Extension"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "French Press"
+            },
+            {
+              "name": "Triceps Extensions"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Leg Press"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Side Lateral Raise"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Muscle Building Without Gym",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Squat"
+            },
+            {
+              "name": "Push Up"
+            },
+            {
+              "name": "Deadlift"
+            },
+            {
+              "name": "Pull Ups"
+            },
+            {
+              "name": "Shoulder Press"
+            },
+            {
+              "name": "Biceps Curls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Leg Raises"
+            },
+            {
+              "name": "Sit Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep Fit With 2 Exercises",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep Fit Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bicycling"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep Fit With 2 Exercises",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep Fit Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bicycling"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bicycling"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep Fit With 2 Exercises",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Skipping"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep Fit Workout Plan",
+      "days": [
+        {
+          "day": "Monday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bicycling"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Bicycling"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "exercises": [
+            {
+              "name": "Warm Up"
+            },
+            {
+              "name": "Jogging"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

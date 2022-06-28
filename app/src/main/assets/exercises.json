@@ -1,0 +1,169 @@
+{
+  "exercises": [
+    {
+      "name": "Warm-Up",
+      "description": "Bereite deine Muskeln mit einer kleinen Dehneinheit auf die bevorstehende Belastung vor.",
+      "url": "https://www.uebungen.ws/krafttraining-aufwaermen/"
+    },
+    {
+      "name": "Bankdrücken",
+      "description": "Das Bankdrücken gilt im Bodybuilding als wichtigste Übung für das Training der Brustmuskulatur. Gemeinsam mit dem Kreuzheben und den Kniebeugen bildet das Bankdrücken außerdem die drei Disziplinen des Kraftdreikampfs. Es gibt Varianten des Bankdrückens, die an dieser Stelle erwähnt werden sollen. Zunächst lässt sich das Bankdrücken auch mit Kurzhanteln ausführen. Außerdem gibt es die Möglichkeit, die Bank entweder positiv zu neigen (Schrägbankdrücken) oder negativ zu neigen (Negativ-Bankdrücken). Insbesondere das Schrägbankdrücken ist populär, weil viele Athleten glauben, mit dieser Übung einen Schwerpunkt auf das Training des oberen Teils der Brust legen zu können. Diese These ist jedoch nicht wissenschaftlich fundiert. Außerdem gibt es das enge Bankdrücken, das den Trizeps in besonderem Maße beansprucht.",
+      "url": "https://www.uebungen.ws/bankdruecken/"
+    },
+    {
+      "name": "Beckenheben",
+      "description": "Das Beckenheben ist wohl eine der bekanntesten Übungen für die Beinbeuger in den eigenen vier Wänden. Trainingsequipment wird überhaupt nicht benötigt, selbst eine Trainingsmatte ist nicht unbedingt erforderlich, da der untere Rücken während der Übung nicht auf dem Boden aufliegt. Wer eine Trainingsmatte besitzt, kann sie natürlich benutzen. Diese Übung trainiert sämtliche Beinbeuger, genau genommen den Halbsehnenmuskel, den Beinbizeps und den Plattsehnenmuskel. Daneben kommt es auch noch zu geringen Trainingesffekten in der Wade, dem Po und den Bauchmuskeln.",
+      "url": "https://www.uebungen.ws/beckenheben/"
+    },
+    {
+      "name": "Beinheben",
+      "description": "Es gibt verschiedene Meinungen darüber, wie sinnvoll das Beinheben ist. Fest steht jedoch, dass es sich um eine der verbreitetsten Bauch-Übungen überhaupt handelt. Es gibt das sogenannte Hängende Beinheben, bei dem man in Schlaufen oder an einer Klimmzugstange hängt. Und es gibt das Beinheben am Gerät. Benötigt wird ein Gerät, das in den USA als Captain's Chair, Roman Chair oder Power Tower bekannt ist. Auf Deutsch spricht man oft einfach vom Beinheben-Gerät. Das Beinheben trainiert die unteren Bauchmuskeln.",
+      "url": "https://www.uebungen.ws/beinheben/"
+    },
+    {
+      "name": "Beinpresse",
+      "description": "Eine der bekanntesten und wirkungsvollsten Übungen an einem Kraftgerät ist die Beinpresse. Fast jedes Fitnessstudio, jedes Leistungszentrum und jeder Physiotherapeut hat solch eine Maschine, weshalb unumstritten sein dürfte, dass dieses Fitnessgerät eines der besten ist. Es gibt verschiedene Varianten dieses Geräts, die sich aber in ihrer Wirkungsweise kaum unterscheiden. Trainiert werden hier fast sämtliche Muskeln der Beine und zudem der Po. Im Detail sind dies die Beinstrecker und Beinbeuger sowie der große Gesäßmuskel. Mit beansprucht werden je nach Fußstellung die Adduktoren und die Wadenmuskulatur.",
+      "url": "https://www.uebungen.ws/beinpresse/"
+    },
+    {
+      "name": "Bizepscurls",
+      "description": "Das Armbeugen mit Kurzhanteln, gerne als Bizepscurls bezeichnet, ist wohl die bekannteste aller Übungen zum Muskelaufbau. Sie trainiert den langen und den kurzen Kopf des Bizeps sowie den Armbeuger. Durch die einfache und schnell zu erlernende Übungsausführung ist sie auch Einsteigern zu empfehlen. Es gibt auch zahlreiche Varianten, die man unbedingt kennen sollte. Besonders populär sind die Langhantel-Curls, die Scottcurls und die Konzentrationscurls.",
+      "url": "https://www.uebungen.ws/bizepscurls/"
+    },
+    {
+      "name": "Burpee",
+      "description": "Der Burpee (Liegestützsprung) ist eine Übung, die sehr viele Muskeln gleichzeitig beansprucht. Populär wurden Burpees durch Crossfit und das Trainingsprogramm Freeletics. Sie lassen sich ohne Equipment durchführen und dienen vor allem der Stärkung der Kraft-Ausdauer. Von Trainingsanfängern werden die Burpees oft falsch ausgeführt, denn die Kombination mehrerer Bewegungsabläufe erfordert ein gutes Maß an Körperbeherrschung und auch ein wenig Übung. Zusätzliche Verwirrung entsteht durch den Umstand, dass es zahlreiche Variationen der Burpees gibt. Die beste Variante: Mit Liegestütz und Ausstrecken der Arme über dem Kopf.",
+      "url": "https://www.uebungen.ws/burpees/"
+    },
+    {
+      "name": "Butterfly",
+      "description": "Aufgrund der einfachen Bewegungsausführung und somit schnellen Erlernbarkeit sowie der Effektivität für die Zielmuskulatur ist das Butterfly-Gerät eines der beliebtesten Geräte in den Fitnessstudios. Egal ob Männer oder Frauen, diese Maschine ist ständig belegt. Beim Butterfly-Gerät werden vor allem die Brustmuskulatur und die vordere Schultermuskulatur trainiert.",
+      "url": "https://www.uebungen.ws/butterfly/"
+    },
+    {
+      "name": "Fahrradfahren",
+      "description": "Der Ausdruck Fahrradfahren - auch Radfahren oder Radeln - bezeichnet die Fortbewegung auf einem Fahrrad, sei es als Verkehrsmittel oder zudem als Transportmittel, im Radverkehr oder als Sportart, die als Freizeitbeschäftigung, zur Erhaltung der Gesundheit oder als sportlicher Wettkampf bis hin zum Leistungssport betrieben wird.",
+      "url": "https://www.radfahren.de/gesundheit/wunderheilmittel-fahrradfahren-gesundheit-fuer-koerper-seele-und-geist/"
+    },
+    {
+      "name": "Hammercurls",
+      "description": "Eine sehr beliebte und daher im Fitnessstudio sehr häufig anzutreffende Armübung sind die Hammercurls. Im Gegensatz zu den Bizepscurls werden die Kurzhanteln bei den Hammercurls im neutralen Griff gehalten. Diese Grifftechnik macht die Übung in ihrer Ausführung sehr einfach und ist dadurch besonders Trainingsanfängern zu empfehlen. Durch die Haltung der Kurzhantel im neutralen Griff wird bei dieser Übung neben dem Bizeps auch ganz besonders der Armbeuger und der Oberarmspeichenmuskel trainiert.",
+      "url": "https://www.uebungen.ws/hammercurls/"
+    },
+    {
+      "name": "High Knees",
+      "description": "High Knees ist eine tolle Übung, um ins Schwitzen zu kommen. Diese Übung kombiniert die typische Laufbewegung und hohe Kniebewegung. Zudem erhöht sie schnell die Herzfrequenz und trägt zu der Fettverbrennung bei. Es verbessert auch die Kraft, Schnelligkeit, Kondition und Flexibilität. High Knees kann im Stehen, sowie über eine Distanz ausgeführt werden. Insgesamt also eine Top-Übung für die Bauchmuskeln und Oberschenkel.",
+      "url": "https://www.80-20.fit/training/uebungen/uebungsdetail/workout/high-knees/Workout/detail/"
+    },
+    {
+      "name": "Joggen",
+      "description": "Jogging, auch als Dauerlauf bezeichnet, ist eine Form des Freizeit- bzw. Laufsports, bei der durch gemächliche Dauerläufe die Kondition (Ausdauer) gesteigert wird. Als eine Form des Ausdauertrainings steigert Joggen nicht nur die körperliche Ausdauer, sondern auch die physische Leistungsfähigkeit des Körpers. Zusätzlich stärkt es das Herz-Kreislauf-System. Zudem beeinflusst es die Knochendichte positiv.",
+      "url": "https://www.wikifit.de/trainingsplaene/abnehmen/abnehmen-durch-laufen"
+    },
+    {
+      "name": "Kickbacks",
+      "description": "Eine relativ simple, aber dennoch sehr wirksame Übung zur Stärkung des Trizeps sind die Kickbacks. Es gibt einige Varianten der Kickbacks, darunter eine Variante ohne Flachbank, im Knien oder mit beiden Armen gleichzeitig. Bei dieser Übung bietet es sich förmlich an mit dem Arm und der Schulter Schwung zu holen. Dies ist jedoch unbedingt zu vermeiden. Achte darauf, dass sich ausschließlich der Unterarm bewegt und diese Bewegung rein durch die Anspannung des Trizeps möglich wird.",
+      "url": "https://www.uebungen.ws/kickbacks/"
+    },
+    {
+      "name": "Klimmzüge",
+      "description": "Der Klimmzug gehört wohl zu den bekanntesten aller Fitnessübungen. Nicht nur die Tatsache, dass er als eine der Grundübungen im Kraftsport gilt, sondern auch die Einfachheit seiner Durchführung und die Möglichkeit ihn ohne großartiges Studioequipment durchzuführen, haben ihn zu einer der beliebtesten Übungen überhaupt gemacht. Ob an einem Holzgebälk, Stahlträger oder Türrahmen - der Klimmzug lässt sich fast überall durchführen. Je nach Wahl der Griffweite liegt der Trainingsfokus auf unterschiedlichen Muskelpartien. Insbesondere trainieren die Klimmzüge den breiten Rückenmuskel, die unteren Fasern des Kapuzenmuskels, den großen und kleinen Rautenmuskel und den großen Rundmuskel. Nicht vergessen werden sollte die Tatsache, dass Klimmzüge auch die Arme in einem nicht unerheblichen Maße mittrainieren. Besonders trainiert werden der Bizeps, der Armbeuger und der Oberarmspeichenmuskel. Um mehr Trainingswirkung auf den Rücken und weniger auf die Arme zu verlegen, wird oft empfohlen, die Klimmzüge im Affengriff durchzuführen.",
+      "url": "https://www.uebungen.ws/klimmzuege/"
+    },
+    {
+      "name": "Kniebeugen",
+      "description": "Die Kniebeuge, auf Englisch Back Squat oder kurz einfach nur Squat genannt, ist wohl eine der anspruchsvollsten und schwierigsten Übungen im Kraftsport. Aufgrund der Vielzahl an beanspruchten Muskeln, gehört diese Übung zu den Grundübungen des Krafttrainings und ist Anfängern zu empfehlen, wenn sie unter kompetenter Aufsicht eingeübt werden kann. Trainiert werden durch die Kniebeuge vor allem die Beine und der Po. Allerdings werden auch der unterer Rücken und die Bauchmuskeln mittrainiert. Im Detail beansprucht die Kniebeuge den vierköpfigen Oberschenkelmuskel, den Beinbizeps, den großen Gesäßmuskel, die Rückenstrecker und den dreiköpfigen Adduktor.",
+      "url": "https://www.uebungen.ws/kniebeugen/"
+    },
+    {
+      "name": "Kreuzheben",
+      "description": "Kreuzheben ist eine umstrittene Übung – zu unrecht. Oft wird behauptet, sie sei rückenschädigend, doch das ist falsch. Im Gegenteil: Wenn man auf die richtige Ausführung achtet, stärkt Kreuzheben den Rücken. Deshalb wird sie auch im Rehasport eingesetzt. Doch auch aus dem Kraftsport und dem Bodybuilding ist das Kreuzheben nicht wegzudenken. Kreuzheben zählt zu den Grundübungen und stärkt den Rücken und die Beinmuskulatur.",
+      "url": "https://www.uebungen.ws/kreuzheben/"
+    },
+    {
+      "name": "Langhantel-Curls",
+      "description": "Eine sehr beliebte Bizepsübung sind die Langhantel-Curls. Diese Übung kann sowohl mit einer geraden Stange als auch mit einer SZ-Stange durchgeführt werden. Generell ist die Nutzung von einer SZ-Stange vorzuziehen, da die Handgelenke und Ellbogen bei der Griffhaltung, die diese Stange nahelegt, erheblich weniger belastet werden als mit der geraden Langhantel-Stange. Beansprucht werden mit dieser Übung hauptsächlich der Bizeps und der Armbeuger.",
+      "url": "https://www.uebungen.ws/langhantel-curls/"
+    },
+    {
+      "name": "Langhantel-Rudern",
+      "description": "Das Langhantel-Rudern ist eine der Grundübungen des Krafttrainings. Sie stärkt die gesamte obere Rückenmuskulatur, vor allem aber den breiten Rückenmuskel, den Kapuzenmuskel und den hinteren Teil des Deltamuskels. Diese Übung ist besonders für alle zu empfehlen, die täglich am Computer arbeiten, da sie die perfekte Ausgleichsübung darstellt: Während die Arbeit am PC mit nach innen gedrehten Schultern und mit den Handrücken nach oben stattfindet, werden bei dieser Übung die Schultern nach außen gedreht mit den Handflächen nach oben. Für diese Übung ist es hilfreich, dass du die Technik des Kreuzhebens beherrschst, um die Langhantel sicher aufzunehmen und nach Abschluss der Übung wieder abzulegen.",
+      "url": "https://www.uebungen.ws/langhantel-rudern/"
+    },
+    {
+      "name": "Latzug",
+      "description": "Das Latziehen am Latzugturm ist wohl die populärste Übung für den Latissimus im Fitnessstudio. Sie gilt gemeinsam mit dem klassischen Klimmzug als eine der Grundübungen im Kraftsport. Im Gegensatz zum Klimmzug, bei welchem das eigene Körpergewicht nach oben gezogen werden muss, ist der Vorteil des Latzugs, dass das Gewicht beliebig einstellbar ist und von oben nach unten gezogen wird. Daher gilt es als beliebtes Gerät für Fitnessanfänger. Am Latzug werden vor allem der breite Rückenmuskel und die unteren Fasern des Kapuzenmuskel trainiert. Auch stark beansprucht werden der große und kleine Rautenmuskel und der große Rundmuskel.",
+      "url": "https://www.uebungen.ws/latzug/"
+    },
+    {
+      "name": "Liegestütze",
+      "description": "Die drei populärsten Fitnessübungen sind Sit-Ups, Bizepscurls und Liegestütze. Wer wollte das bestreiten? Gut, womöglich müsste man noch die Klimmzüge nennen. Aber: Ist es nicht bemerkenswert, dass die Liegestütze trotz ihrer Popularität fast nirgendwo im Internet richtig erklärt werden? Die Liegestütze trainieren den Trizeps und die Brustmuskeln.",
+      "url": "https://www.uebungen.ws/liegestuetze/"
+    },
+    {
+      "name": "Military Plank",
+      "description": "Der Military Plank ist eine Übung für den gesamten Rumpf, insbesondere der Bauchmuskulatur und nennt sich auf deutsch Unterarmstütz. Es gibt unzählige Bauchübungen, doch der Plank hat sich im Laufe der Zeit als eine ausgezeichnete Übung herausgestellt, da sich der Schwierigkeitsgrad sehr weit steigern lässt. Der Unterarmstütz ist sowohl für Anfänger als auch für Fortgeschrittene geeignet da durch kleine Änderungen in der Position der Arme und Beine die Schwierigkeit erhöht werden kann.",
+      "url": "https://www.online-fitness-coaching.com/Plank-Unterarmstuetz"
+    },
+    {
+      "name": "Military Press",
+      "description": "Das Schulterdrücken im Stehen, auch bekannt als Military Press, zählt zu den Grundübungen und gilt als eine der ältesten Fitness-Übungen überhaupt. Im Stehen ausgeführt, trainierst du mit dem Schulterdrücken nicht nur die Schultern und den Trizeps, sondern vor allem auch deine Rumpfmuskulatur, die deinen Körper während der Übung stabilisiert und das Gewicht über deinem Kopf ausbalancieren hilft. In den meisten Fitnessstudios ist eine Variante der Military Press populär, die im Sitzen ausgeführt wird.",
+      "url": "https://www.uebungen.ws/military-press/"
+    },
+    {
+      "name": "On Point Punches",
+      "description": "On Point Punches ist eine relativ leichte Übung, mit der man aber trotzdem schnell ins Schwitzen geraten kann. Man schlägt einfach abwechselnd mit den Armen in die Luft und macht parallel Schritte im Stehen. Diese Übung eignet sich perfekt, um die eigene Ausdauer zu verbessern. Wichtig ist, dass sich Arme und Beine diagonal bewegen.",
+      "url": "https://www.foodspring.de/magazine/6-uebungen-zum-abnehmen-kostenlosem-trainingsplan"
+    },
+    {
+      "name": "Rückenstrecken",
+      "description": "Das Rückenstrecken im Liegen, auch Superman-Übung genannt, ist eine klassische Rückenübung, die vielleicht einigen aus der Physiotherapie oder der Krankengymnastik bekannt ist. Zielmuskel dieser Übung sind die beiden Rückenstrecker, die auf beiden Seiten der Wirbelsäule verlaufen. Nicht unwesentlich stark wird allerdings auch der Po trainiert, genauer gesagt der große Gesäßmuskel, weshalb sich diese Übung besonders bei den Damen einiger Beliebtheit erfreut.",
+      "url": "https://www.uebungen.ws/rueckenstrecken-im-liegen/"
+    },
+    {
+      "name": "Schrägbankdrücken",
+      "description": "Das Kurzhantel-Bankdrücken auf der Schrägbank ist eine häufig zu beobachtende Übung im Fitnesscenter. Da nicht alle Studios über eine Schrägbank im Langhantel verfügen, hat sich diese Übung zum Klassiker etabliert, wenn es darum geht den oberen Teil der Brust zu trainieren. Im Fokus dieser Übung steht also das Training der Schlüsselbeinfasern des großen Brustmuskels, aber auch die Rest des großen Brustmuskels wird hierbei gestärkt.",
+      "url": "https://www.uebungen.ws/schraegbank-druecken/"
+    },
+    {
+      "name": "Schulterdrücken",
+      "description": "Der Klassiker schlechthin für das Trainig der Schulter ist das Schulterdrücken. Während der seitliche Teil des Deltamuskels immer beansprucht wird, entscheidet ein Herablassen der Langhantelstange vor oder hinter den Kopf, ob du mit dieser Übung verstärkt den vorderen oder hinteren Teil der Schultern trainierst. Daneben unterstützen Kapuzenmuskel, Trizeps und Sägemuskel die Ausführung der Bewegung.",
+      "url": "https://www.uebungen.ws/schulterdruecken/"
+    },
+    {
+      "name": "Seilspringen",
+      "description": "Günstig und beeindruckend effektiv ist das gute alte Springseil. Es ermöglicht ein sehr intensives Workout, das selbst geübte Sportler innerhalb weniger Minuten an ihre Grenzen bringen kann. Seilspringen fördert außerdem die Koordination und verlangt ein hohes Maß an Konzentration - deshalb wird diese Form des Ausdauertrainings auch nie langweilig. Erforderlich ist lediglich eine ausreichend große freie Fläche in der Wohnung. Oft reicht es schon, wenn man den Wohnzimmertisch ein wenig zur Seite schiebt. Es kann nie schaden, ein Springseil anzuschaffen. Springseile kosten nur sehr wenig Geld, nehmen keinen Platz weg und ermöglichen ein intensives Workout.",
+      "url": "https://www.daytraining.de/fitness/seilspringen-abnehmen-mit-rope-skipping/"
+    },
+    {
+      "name": "Seitheben",
+      "description": "Das Seitheben mit Kurzhanteln ist eine im Fitnessstudio häufig zu beobachtende Kräftigungsübung für die Schultern. Trainiert werden alle 3 Teile des Deltamuskels, besonders aber der mittlere Teil des Deltamuskels sowie die oberen Fasern des Kapuzenmuskels.",
+      "url": "https://www.uebungen.ws/seitheben/"
+    },
+    {
+      "name": "Sit-Ups",
+      "description": "Eine der bekanntesten Bauchübungen sind wohl die Sit-Ups. Im Vergleich zum Crunch ist diese Übung erheblich schwerer - sowohl im Kraftaufwand der Bauchmuskulatur, als auch in der Übungsausführung. Generell werden die Crunches als überlegene Alternative empfohlen, da die Sit-Ups vergleichsweise schwierig auszuführen sind und die Wirbelsäule stark belasten. Trainiert wird bei dieser Übung für den Bauch vor allem der gerade Bauchmuskel.",
+      "url": "https://www.uebungen.ws/sit-ups/"
+    },
+    {
+      "name": "Skater Jumps",
+      "description": "Skater Jumps ist eine Beinübung und eignet sich hervorragend für ein Konditions- bzw. Ausdauertraining. Sie fördert außerdem die Beweglichkeit. Trotz des relativ hohen Schwierigkeitsgrades eignet sie sich perfekt zum Abnehmen und trainiert die Beinmuskulatur, Kniestabilität und Ausdauer. Zu beachten ist, dass man kontrolliert springt und landet, um nicht zur Seite umzuknicken.",
+      "url": "https://fitnessuebungen-zuhause.de/skater_hops.html"
+    },
+    {
+      "name": "Stirndrücken",
+      "description": "Eine sehr bekannte und beliebte Übung für den Trizeps ist das Stirndrücken. Bekannt ist die Übung auch unter den Namen Frenchpress, Skullcrusher oder Nosebreaker. Für diese Übung benötigst du eine Langhantelstange oder eine SZ-Stange und eine Flachbank. Allerdings kannst du diese Übung auch auf dem Boden machen. Mit der Übung trainierst du alle drei Köpfe des Trizeps und den Knorrenmuskel.",
+      "url": "https://www.uebungen.ws/stirndruecken/"
+    },
+    {
+      "name": "Trizepsdrücken",
+      "description": "Das Pendant zum beidarmigen Kurzhantel-Trizepsdrücken ist das Trizepsdrücken über dem Kopf mit der Langhantel oder der SZ-Stange. Zur Schonung der Handgelenke sei grundsätzlich eine SZ-Stange für die Übungsdurchführung empfohlen. Trainiert werden beim Trizepsdrücken die drei Köpfe des Trizeps und der Knorrenmuskel.",
+      "url": "https://www.uebungen.ws/trizepsdruecken/"
+    },
+    {
+      "name": "Cool Down",
+      "description": "Rolle deine Muskeln mit einer Faszienrolle aus.",
+      "url": "https://blog.xxlnutrition.com/de/13-cooling-down-uebungen/"
+    }
+  ]
+}

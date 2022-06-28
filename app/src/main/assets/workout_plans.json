@@ -1,0 +1,1808 @@
+{
+  "workout_plans": [
+    {
+      "title": "Abnehmprogramm ohne Geräte",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmen durch Krafttraining",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Latzug"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmen durch Laufen",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmprogramm ohne Geräte",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmen durch Krafttraining",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Latzug"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Beckenheben"
+            },
+            {
+              "name": "Rückenstrecken"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmen durch Laufen",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmprogramm ohne Geräte",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "High Knees"
+            },
+            {
+              "name": "On Point Punches"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Skater Jumps"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmen durch Krafttraining",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Latzug"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Rückenstrecken"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Beckenheben"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Rückenstrecken"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Abnehmen durch Laufen",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ganzkörper-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hardgainer-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Trizepsdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Beinpresse"
+            },
+            {
+              "name": "Schrägbankdrücken"
+            },
+            {
+              "name": "Langhantel-Curls"
+            },
+            {
+              "name": "Stirndrücken"
+            },
+            {
+              "name": "Seitheben"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Muskelaufbau ohne Fitnessstudio",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ganzkörper-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Beinpresse"
+            },
+            {
+              "name": "Schrägbankdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Seitheben"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Stirndrücken"
+            },
+            {
+              "name": "Military Plank"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Trizepsdrücken"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hardgainer-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Trizepsdrücken"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Beinpresse"
+            },
+            {
+              "name": "Schrägbankdrücken"
+            },
+            {
+              "name": "Langhantel-Curls"
+            },
+            {
+              "name": "Stirndrücken"
+            },
+            {
+              "name": "Seitheben"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Trizepsdrücken"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Muskelaufbau ohne Fitnessstudio",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trainingsplan Masseaufbau",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Schrägbankdrücken"
+            },
+            {
+              "name": "Butterfly"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Langhantel-Curls"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Rückenstrecken"
+            },
+            {
+              "name": "Seitheben"
+            },
+            {
+              "name": "Stirndrücken"
+            },
+            {
+              "name": "Trizepsdrücken"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Beinpresse"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Seitheben"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trainingsplan Definition",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Bankdrücken"
+            },
+            {
+              "name": "Schrägbankdrücken"
+            },
+            {
+              "name": "Butterfly"
+            },
+            {
+              "name": "Hammercurls"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Dienstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Langhantel-Rudern"
+            },
+            {
+              "name": "Rückenstrecken"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Stirndrücken"
+            },
+            {
+              "name": "Trizepsdrücken"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Beinpresse"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Military Press"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Seitheben"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Muskelaufbau ohne Fitnessstudio",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Kniebeugen"
+            },
+            {
+              "name": "Liegestütze"
+            },
+            {
+              "name": "Kreuzheben"
+            },
+            {
+              "name": "Klimmzüge"
+            },
+            {
+              "name": "Schulterdrücken"
+            },
+            {
+              "name": "Bizepscurls"
+            },
+            {
+              "name": "Kickbacks"
+            },
+            {
+              "name": "Beinheben"
+            },
+            {
+              "name": "Sit-Ups"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mit 2 Übungen fit bleiben",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lebenslang-Fit-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Fahrradfahren"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mit 2 Übungen fit bleiben",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lebenslang-Fit-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Fahrradfahren"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Fahrradfahren"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mit 2 Übungen fit bleiben",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Burpee"
+            },
+            {
+              "name": "Seilspringen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lebenslang-Fit-Trainingsplan",
+      "days": [
+        {
+          "day": "Montag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Fahrradfahren"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Fahrradfahren"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "exercises": [
+            {
+              "name": "Warm-Up"
+            },
+            {
+              "name": "Joggen"
+            },
+            {
+              "name": "Cool Down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

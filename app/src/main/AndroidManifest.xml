@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.htwg.fitness">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity
+                android:name=".SelectedWorkoutPlanActivity"
+                android:label="@string/workout_plan"
+                android:parentActivityName=".SelectWorkoutPlanActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.SelectWorkoutPlanActivity"/>
+        </activity>
+        <activity
+                android:name=".CreateWorkoutPlanActivity"
+                android:label="@string/create_workout_plan"
+                android:parentActivityName=".SelectOrCreateActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.SelectOrCreateActivity"/>
+        </activity>
+        <activity
+                android:name=".SelectWorkoutPlanActivity"
+                android:label="@string/select_workout_plan"
+                android:parentActivityName=".DifficultyLevelActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.DifficultyLevelActivity"/>
+        </activity>
+        <activity
+                android:name=".DifficultyLevelActivity"
+                android:label="@string/difficulty_level"
+                android:parentActivityName=".SelectOrCreateActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.SelectOrCreateActivity"/>
+        </activity>
+        <activity
+                android:name=".SelectOrCreateActivity"
+                android:label="@string/workout_plan"
+                android:parentActivityName=".TrainingGoalActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.TrainingGoalActivity"/>
+        </activity>
+        <activity
+                android:name=".StatisticsActivity"
+                android:label="@string/statistics"
+                android:parentActivityName=".MainActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".WorkoutPlanActivity"
+                android:label="@string/workout_plan"
+                android:parentActivityName=".MainActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".TrainingGoalActivity"
+                android:label="@string/training_goal"
+                android:parentActivityName=".MainActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".CalendarActivity"
+                android:label="@string/calendar"
+                android:parentActivityName=".MainActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".SettingsActivity"
+                android:label="@string/settings"
+                android:parentActivityName=".MainActivity"
+                android:screenOrientation="sensor">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.htwg.fitness.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".MainActivity"
+                android:label="@string/app_name"
+                android:screenOrientation="sensor"
+                android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="com.htwg.fitness.Receiver"></receiver>
+
+        <service
+                android:name=".NotificationService"
+                android:exported="false"/>
+    </application>
+
+</manifest>

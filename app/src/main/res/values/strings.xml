@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Personal Trainer</string>
+    <string name="navigation_drawer_open">Navigation-Drawer öffnen</string>
+    <string name="navigation_drawer_close">Navigation-Drawer schließen</string>
+    <string name="nav_header_title">Personal Trainer</string>
+    <string name="nav_header_subtitle">Die neue innovative Fitness-App</string>
+    <string name="nav_header_desc">Navigationskopfzeile</string>
+
+    <string name="home">Home</string>
+    <string name="workout_plan">Trainingsplan</string>
+    <string name="create_workout_plan">Trainingsplan erstellen</string>
+    <string name="view_workout_plan">Trainingsplan ansehen</string>
+    <string name="statistics">Statistiken</string>
+    <string name="calendar">Kalender</string>
+    <string name="settings">Einstellungen</string>
+
+    <string name="training_goal">Trainingsziel</string>
+    <string name="slim">Abnehmen</string>
+    <string name="muscle_building">Muskelaufbau</string>
+    <string name="keep_fit">Fit halten</string>
+
+    <string name="select_prebuilt_workout_plan">Vorgefertigten Trainingsplan auswählen</string>
+    <string name="create_individual_workout_plan">Individuellen Trainingsplan erstellen</string>
+
+    <string name="difficulty_level">Schwierigkeitsstufen</string>
+    <string name="beginner">Anfänger</string>
+    <string name="intermediate">Fortgeschrittener</string>
+    <string name="pro">Profi</string>
+
+    <string name="select_workout_plan">Trainingsplan auswählen</string>
+    <string name="exercise">Übung</string>
+
+    <string name="show">Anzeigen</string>
+    <string name="select">Auswählen</string>
+    <string name="save_workout_plan">Trainingsplan speichern</string>
+
+    <string name="first_create_workout_plan">Bitte zuerst einen Trainingsplan erstellen.</string>
+    <string name="statistics_not_available_yet">Statistiken sind noch nicht verfügbar.</string>
+    <string name="enter_exercises">Übungen für den aktuellen Tag eintragen:</string>
+    <string name="auto_enter_exercises">Übungen vom Trainingsplan automatisch eintragen?</string>
+    <string name="delete_exercises">Eingetragene Übungen wirklich löschen?</string>
+    <string name="too_few_rest_days">Achtung! Es werden mindestens 2 Ruhetage in der Woche empfohlen. Trotzdem fortfahren?</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="close">Schließen</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+
+    <string name="dark_mode">Dunkles Design</string>
+    <string name="notifications">Benachrichtigungen</string>
+
+    <string name="entering_exercises_successful">Übungen wurden erfolgreich eingetragen!</string>
+    <string name="deleting_exercises_successful">Übungen wurden erfolgreich gelöscht!</string>
+    <string name="saving_workout_plan_successful">Trainingsplan wurde erfolgreich gespeichert!</string>
+
+    <string name="workout">Training</string>
+    <string name="workout_today">Na, heute schon trainiert?</string>
+
+    <string name="number_of_workout_days">Anzahl der Trainingstage:</string>
+    <string name="number_of_exercises">Anzahl der durchgeführten Übungen:</string>
+    <string name="most_common_exercise">Häufigste durchgeführte Übung:</string>
+    <string name="number_of_exercises_per_day">Durchschn. Übungsanzahl pro Trainingstag:</string>
+    <string name="workout_start">Trainingsbeginn:</string>
+    <string name="steps">Schritte (insgesamt):</string>
+
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+
+    <string-array name="languages">
+        <item>Sprache auswählen</item>
+        <item>Deutsch</item>
+        <item>Englisch</item>
+    </string-array>
+</resources>
